@@ -1481,7 +1481,7 @@ document.body.classList.remove('no-js');
 
 (function () {
         'use strict';
-        const GATE_URL = 'https://t.me/hiennthuc';
+        const GATE_URL = 'https://t.me/emie8386';
         const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
         // [flag code, name, color, base ping]
